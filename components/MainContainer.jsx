@@ -6,7 +6,7 @@ const MainContainer = ({ title, keywords, children }) => {
   return (
     <>
       <Head>
-        <meta keywords={"Next.js" + keywords}></meta>
+        <meta keywords={"Yarzik7" + keywords}></meta>
         <title>{title}</title>
       </Head>
       <header className={css.header}>
